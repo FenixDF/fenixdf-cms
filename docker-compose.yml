@@ -1,0 +1,16 @@
+services:
+  cmsimple_xh:
+    build: .
+    container_name: fenixdf-cms
+    restart: unless-stopped
+    ports:
+      - "8025:80"
+    volumes:
+      - cmsimple_data:/var/www/html/cmsimple
+      - cmsimple_content:/var/www/html/content
+      - cmsimple_userfiles:/var/www/html/userfiles
+
+volumes:
+  cmsimple_data:
+  cmsimple_content:
+  cmsimple_userfiles:
