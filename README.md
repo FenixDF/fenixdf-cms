@@ -65,7 +65,7 @@ volumes:
 
 Mantenido por FenixDF | Digital Fortress 🛡️
 
-## 🔗 **Enlaces**
+🔗 Enlaces
 
-- **Docker Hub:** [https://hub.docker.com/r/fenixdf/fenixdf-cms](https://hub.docker.com/r/fenixdf/fenixdf-cms)
-- **GitHub:** [https://github.com/FenixDF/fenixdf-cms](https://github.com/FenixDF/fenixdf-cms)
+Docker Hub: https://hub.docker.com/r/fenixdf/fenixdf-cms
+GitHub: [https://github.com/FenixDF/fenixdf-cms
