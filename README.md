@@ -68,4 +68,4 @@ Mantenido por FenixDF | Digital Fortress 🛡️
 🔗 Enlaces
 
 Docker Hub: https://hub.docker.com/r/fenixdf/fenixdf-cms
-GitHub: [https://github.com/FenixDF/fenixdf-cms
+GitHub: https://github.com/FenixDF/fenixdf-cms
