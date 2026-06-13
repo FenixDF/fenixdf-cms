@@ -2,6 +2,8 @@
 
 CMSimple_XH optimizado para ARM64/AMD64 con NGINX + PHP-FPM 8.2.
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/fenixdf/fenixdf-cms?style=for-the-badge&logo=docker)](https://hub.docker.com/r/fenixdf/fenixdf-cms)
+
 ## 🚀 Uso rápido
 ```bash
 docker run -d -p 8025:80 --name fenixdf fenixdf/fenixdf-cms:latest
@@ -62,3 +64,8 @@ volumes:
 📄 Licencia MIT
 
 Mantenido por FenixDF | Digital Fortress 🛡️
+
+## 🔗 **Enlaces**
+
+- **Docker Hub:** [https://hub.docker.com/r/fenixdf/fenixdf-cms](https://hub.docker.com/r/fenixdf/fenixdf-cms)
+- **GitHub:** [https://github.com/FenixDF/fenixdf-cms](https://github.com/FenixDF/fenixdf-cms)
