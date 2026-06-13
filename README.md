@@ -15,8 +15,6 @@
 
 CMSimple_XH optimizado para ARM64/AMD64 con NGINX + PHP-FPM 8.2. El CMS más rápido y ligero para arquitecturas ARM64 (Raspberry Pi) y AMD64.
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/fenixdf/fenixdf-cms?style=for-the-badge&logo=docker)](https://hub.docker.com/r/fenixdf/fenixdf-cms)
-
 ## 🚀 Uso rápido
 ```bash
 docker run -d -p 8025:80 --name fenixdf fenixdf/fenixdf-cms:latest
