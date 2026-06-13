@@ -1,6 +1,19 @@
 # 🐦‍🔥 FenixDF CMS | Digital Fortress 🛡️
 
-CMSimple_XH optimizado para ARM64/AMD64 con NGINX + PHP-FPM 8.2.
+<p align="center">
+  <img src="Logo-FenixDFftDocker.jpg" alt="Logo FenixDF" width="400">
+</p>
+
+<p align="center">
+  <a href="https://hub.docker.com/r/fenixdf/fenixdf-cms">
+    <img src="https://img.shields.io/docker/pulls/fenixdf/fenixdf-cms?style=for-the-badge&logo=docker" alt="Docker Pulls">
+  </a>
+  <a href="https://github.com/FenixDF/fenixdf-cms">
+    <img src="https://img.shields.io/github/stars/FenixDF/fenixdf-cms?style=for-the-badge&logo=github" alt="GitHub Stars">
+  </a>
+</p>
+
+CMSimple_XH optimizado para ARM64/AMD64 con NGINX + PHP-FPM 8.2. El CMS más rápido y ligero para arquitecturas ARM64 (Raspberry Pi) y AMD64.
 
 [![Docker Pulls](https://img.shields.io/docker/pulls/fenixdf/fenixdf-cms?style=for-the-badge&logo=docker)](https://hub.docker.com/r/fenixdf/fenixdf-cms)
 
